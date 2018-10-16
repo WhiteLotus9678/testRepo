@@ -1,0 +1,19 @@
+﻿  Source.cpp
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(160): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(267): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(272): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(275): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(281): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(284): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(333): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(336): warning C4018: '<': signed/unsigned mismatch
+d:\2018 classes\comp. arch\finalboothalg\finalboothalg\source.cpp(391): warning C4018: '<': signed/unsigned mismatch
+  FinalBoothAlg.vcxproj -> D:\2018 Classes\Comp. Arch\FinalBoothAlg\Debug\FinalBoothAlg.exe
